@@ -6,6 +6,7 @@ This is an instruction for using KETI GCS + nCube_MUV + PX4 (+ Gazebo).
 
 ## 1. mode
 **PX4**:manual-acro-offboard-stabilized-rattitude-altctl-posctl-auto:mission-auto:loiter-auto:rtl-auto:takeoff-auto:land-auto:precland
+
 **Ardupilot**: stabilized-guided-poshold-auto-althold ~~~~
 
 PX4의 경우, takeoff 명령 이후 hold (mavros에서는 AUTO:LOITER) 모드로 넘어감
