@@ -9,6 +9,8 @@ This is an instruction for using KETI GCS + nCube_MUV + PX4 (+ Gazebo).
 
 **Ardupilot**: stabilized-guided-poshold-auto-althold ~~~~
 
+***Ardupilot 의 guided에 매칭되는 모드가 hold
+
 PX4의 경우, takeoff 명령 이후 hold (mavros에서는 AUTO:LOITER) 모드로 넘어감
 goto의 경우, 쭉 hold 모드 유지
 선회비행의 경우, Orbit (mavros에서는 POSCTL) 모드로 동작
